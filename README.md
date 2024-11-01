@@ -1,28 +1,37 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome Remy Telford-Smith,
+Welcome to my website- Whey to go!,
+ Here, users can access a vriety of information on cheeses from around the world. It proposes to spread knowledge, inspiration and a new found appreciation for all things cheesy through exploring the history of cheese, suggesting tatsy cheesy recipes and roviding a cheese index, to help users identify what cheese they are eating and what to pair it with.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+ Usage Guide
+ To set up project on a local device, open this link in a web browser:
+ 
+ Scroll through the page to see contents and use the navigation bar, located at the top of each page to discover new cheesy things. On the recipes, click on the external links to visit the origins of each recipe where you can find more suggestions from the writers. In the navigation bar users can search keywords or specific cheeses to efficiently find related content, saving time scrolling through each web page which imroves the user experiance. 
 
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 18, 2024**
+ Contributions guide
+ If other developers wish to contribute to this project by submitting bug reports or code changes, then they have permission to do so by following thsi link:
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Lisenceing information and attributions
+The following contents is not my own code and taken from external sources. 
 
-`python3 -m http.server`
+columns: <div class="container text-center">
+  <div class="row">
+    <div class="col">
+    <img scr="https://www.google.com/imgres?q=photo%20of%20a%20cheesemongers&imgurl=https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttp%253A%252F%252Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%252F2ef98c06-04e6-11e5-95ad-00144feabdc0%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&imgrefurl=https%3A%2F%2Fwww.ft.com%2Fcontent%2F09624514-04af-11e5-95ad-00144feabdc0&docid=6iBXnwyX5elVwM&tbnid=BBsP-YpQozAjgM&vet=12ahUKEwiA__ON5bqJAxWVTkEAHWimJVQQM3oECBgQAA..i&w=700&h=394&hcb=2&ved=2ahUKEwiA__ON5bqJAxWVTkEAHWimJVQQM3oECBgQAA" alt="a photo of a cheesemoners">
+    </div>
+    <div class="col">
+      Column
+    </div>
+    <div class="col">
+      Column
+    </div>
+  </div>
+</div>
+ from: https://getbootstrap.com/docs/5.3/layout/grid/
 
-A blue button should appear to click: _Make Public_,
+Recipes:
 
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py` if your Python file is named `app.py`, of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-By Default, Gitpod gives you superuser security privileges. Therefore, you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
 To log into the Heroku toolbelt CLI:
 
