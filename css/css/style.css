@@ -1,8 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 body {
-    font-family: 'Arial', sans-serif;
+    background-color: #f4efd3;
 }
 
-.navbar {
+.navbar.responsive {
     display: flex;
     position: sticky;
     align-items: center;
@@ -12,7 +13,7 @@ body {
     background-blend-mode: darken;
     background-size: cover;
     color: white;
-    padding: 10px 20px;
+    padding: 10px;
 }
 
 .nav-list {
@@ -21,7 +22,7 @@ body {
 }
 
 .nav-list li {
-    margin-right: 20px;
+    margin-right: 30px;
 }
 
 .nav-list li:last-child {
@@ -29,29 +30,35 @@ body {
 }
 
 .nav-list li a {
-    text-decoration: none;
+    text-decoration: "Merriweather", serif;
     color: rgb(234, 152, 21);
     font-size: 18px;
 }
 
 .nav-list li a:hover {
-    color: #f7e99f;
+    color: #ffffff;
 }
 
-.rightNav {
+.right-nav {
     text-align: right;
 }
 
 #search {
     padding: 8px;
     font-size: 16px;
-    border: 2px solid #fff;
-    border-radius: 5px;
+    border: 2px solid #000000;
+    border-radius: 1px;
+    position: sticky;
+    overflow: hidden;
+    background-color: #ffffff;
+    color: #7ec97e;
+    margin-top: auto;
+    
 }
 
 .btn {
-    background-color: #ffd700;
-    color: #000;
+    background-color: #db8709;
+    color: #ffffff;
     border: none;
     padding: 8px 12px;
     border-radius: 5px;
@@ -60,7 +67,29 @@ body {
 }
 
 .btn:hover {
-    background-color: #000;
-    /* Change the background color on hover */
-    color: #ffd700;
+    background-color: #ffffff;
+    color: #db8709;
+}
+
+header {
+ text-align: center;
+ color: #f7e99f;
+ background-color: #db8709;
+ font-size: 50px;
+ font-family: "Macondo", sans-serif;
+ position: sticky;
+}
+
+
+h1 {
+    color: #e0a721;
+    
+}
+p {
+    background-color: #e0a721;
+    color: #ffffff;
+    box-shadow: none;
+    position: center;
+    display: inline-block;
+    font-size: 25px;
 }
