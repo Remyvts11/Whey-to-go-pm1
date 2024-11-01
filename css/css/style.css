@@ -93,3 +93,13 @@ p {
     display: inline-block;
     font-size: 25px;
 }
+
+script {
+    background-color: #f7e99f;
+    color: #482b05; 
+    box-shadow: none;
+    position: center;
+    display: inline-block;
+    font-size: 25px;
+
+}
