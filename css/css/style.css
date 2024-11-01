@@ -31,7 +31,7 @@ body {
 
 .nav-list li a {
     text-decoration: "Merriweather", serif;
-    color: rgb(234, 152, 21);
+    color: #f7e99f;
     font-size: 18px;
 }
 
@@ -78,6 +78,7 @@ header {
  font-size: 50px;
  font-family: "Macondo", sans-serif;
  position: sticky;
+ z-index: 1000;
 }
 
 .gallery {
