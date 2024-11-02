@@ -39,38 +39,6 @@ body {
     color: #ffffff;
 }
 
-.right-nav {
-    text-align: right;
-}
-
-#search {
-    padding: 8px;
-    font-size: 16px;
-    border: 2px solid #000000;
-    border-radius: 1px;
-    position: sticky;
-    overflow: hidden;
-    background-color: #ffffff;
-    color: #7ec97e;
-    margin-top: auto;
-    
-}
-
-.btn {
-    background-color: #db8709;
-    color: #ffffff;
-    border: none;
-    padding: 8px 12px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease-in-out;
-}
-
-.btn:hover {
-    background-color: #ffffff;
-    color: #db8709;
-}
-
 header {
  text-align: center;
  color: #f7e99f;
@@ -118,14 +86,18 @@ script {
 
 /*Recipe page styles*/
 
+.recipe-list {
+    color: #482b05;
+}
+ 
 .recipe-item {
-    display: flex; /* Use flexbox */
-    align-items: center; /* Center items vertically */
-    margin-bottom: 20px; /* Space between items */
+    display: flex; 
+    align-items: center; 
+    margin-bottom: 20px; 
 }
 .recipe-item img {
-    width: 100px; /* Set image width */
-    height: auto; /* Maintain aspect ratio */
-    margin-right: 15px; /* Space between image and text */
-}
+    width: 100px; 
+    height: auto; 
+    margin-right: 15px; 
 
+}
