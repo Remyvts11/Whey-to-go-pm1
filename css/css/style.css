@@ -11,7 +11,6 @@ body {
     top: 0px;
     background-blend-mode: darken;
     background-size: cover;
-    padding: 10px;
 }
 
 .nav-list {
@@ -52,7 +51,6 @@ header {
 .collumn {
     display: flex; 
     justify-content: center; 
-    flex-wrap: wrap; 
 }
 
 .gallery img {
@@ -66,15 +64,17 @@ h1 {
 p {
     background-color: #e0a721;
     color: #ffffff;
-    box-shadow: none;
+    box-shadow: inset;
     position: center;
     display: inline-block;
     font-size: 25px;
+    text-align: center;
 }
 
 script {
     background-color: #f7e99f;
     color: #482b05; 
+    padding-left: 20px;
     box-shadow: none;
     position: center;
     display: inline-block;
