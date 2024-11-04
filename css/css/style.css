@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 body {
     background-color: #f4efd3;
+    
 }
 
 .navbar.responsive {
@@ -21,17 +22,13 @@ body {
 }
 
 .nav-list li {
-    margin-right: 10px;
-}
-
-.nav-list li:last-child {
-    margin-right: 0;
+    margin-right: 20px;
 }
 
 .nav-list li a {
     text-decoration: "Merriweather", serif;
     color: #f7e99f;
-    font-size: 18px;
+    font-size: 36px;
 }
 
 .nav-list li a:hover {
@@ -40,7 +37,7 @@ body {
 
 header {
  text-align: center;
- color: #f7e99f;
+ color: #f4efd3;
  background-color: #db8709;
  font-size: 75px;
  font-family: "Macondo", sans-serif;
@@ -48,13 +45,9 @@ header {
  z-index: 1000;
 }
 
-.collumn {
-    display: flex; 
-    justify-content: center; 
-}
 
 .gallery img {
-    margin: 3%; 
+    margin: 1%; 
 }
 
 h1 {
@@ -62,23 +55,22 @@ h1 {
     
 }
 p {
-    background-color: #e0a721;
     color: #ffffff;
-    box-shadow: inset;
-    position: center;
     display: inline-block;
     font-size: 25px;
     text-align: center;
 }
 
-script {
-    background-color: #f7e99f;
+div.text-box {
+    background-color: #f4efd3;
     color: #482b05; 
     padding-left: 20px;
     box-shadow: none;
     position: center;
     display: inline-block;
     font-size: 25px;
+    text-decoration: "Merriweather", serif;
+    
 
 }
 
@@ -92,6 +84,7 @@ script {
     display: flex; 
     align-items: center; 
     margin-bottom: 20px; 
+    text-decoration: "Merriweather", serif;
 }
 .recipe-item img {
     width: 100px; 
@@ -147,6 +140,7 @@ footer {
 footer a {
     color: #f7e99f; 
     text-decoration: none; 
+    text-decoration: "Merriweather", serif;
 }
 footer a:hover {
     text-decoration: underline; 
