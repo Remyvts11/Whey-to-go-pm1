@@ -22,10 +22,9 @@
     </nav>   
     </header>
     <br>
+<h1>Contact Us</h1>
 
-    <h1>Contact Us</h1>
-
-<div class="contact">
+<div class="contact" style="background-color: #f4efd3;">
     <form action="action_page.php">
   
       <label for="fname">First Name</label>
@@ -42,9 +41,18 @@
         <option value="united kingdom">United Kingdom</option>
         <option value="usa">USA</option>
       </select>
-  
+
       <label for="subject">Subject</label>
-      <textarea id="subject" name="subject" placeholder="Write your enquiry here.." style="height:200px"></textarea>
+      <select id="subject" name="subject">
+        <option value="tours">Tours</option>
+        <option value="tastings">Tastings</option>
+        <option value="venue-hire">Venue Hire</option>
+        <option value="event-hire">Hire Us for Events</option>
+        <option value="stock">Stock</option>
+      </select>
+  
+      <label for="enquiry">Enquiry</label>
+      <textarea id="enquiry" name="enquiry" placeholder="Write your enquiry here.." style="height:200px"></textarea>
   
       <input type="submit" value="Submit">
   
