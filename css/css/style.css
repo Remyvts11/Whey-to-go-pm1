@@ -45,8 +45,7 @@ header {
  z-index: 1000;
 }
 
-
-.gallery {
+.collumn {
     margin: 1%; 
     display: flex;
     align-items: flex-start;
