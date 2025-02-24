@@ -32,9 +32,7 @@
    The website uses the same colour pallete and logo as the buisness that it was created for to maintain brand consitency. It also uses colours that are often associated with cheeses like yellow, orange and cream.
 
   ## Wireframes
-    All pages and size versions for this project are on the same wireframe document which can be viewed via:
- 
-  ## Bugs Discovered
+    ![Wireframes](assets/images/Screenshot%202025-02-24%2011.56.21%20AM.png)
 
   ## Credits
    ### code
@@ -79,11 +77,25 @@
 </div>
 
    ### media
-     Photo of cheesemongers extracted from: 
-
-     Photo of cheese cellar copied from: 
-
-     Recipes:
+    All images extracted from Shutterstock.com and iStock.com
 
   ## Deployment
    To set up project on a local device, open this link in a web browser:
+
+  ## Testing
+   ### HTML code validated using: https://validator.w3.org/
+    ![index.html](assets/validator_imgs/Screenshot%202025-01-30%209.38.27%20PM.png)
+    ![contact.html](assets/validator_imgs/Screenshot%202025-01-30%209.49.07%20PM.png)
+    ![recipes.html](assets/validator_imgs/Screenshot%202025-02-02%204.29.19%20PM.png)
+
+   ### CSS code validated using: https://jigsaw.w3.org/css-validator/
+    ![style.css](assets/validator_imgs/Screenshot%202025-02-02%204.54.49%20PM.png)
+
+   ### Final website screenshots 
+   ![index.html](assets/testing_imgs/ss1.png)
+   ![index.html](assets/testing_imgs/ss2.png)
+   ![contact.html](assets/testing_imgs/ss3.png)
+   ![contact.html](assets/testing_imgs/ss4.png)
+   ![recipes.html](assets/testing_imgs/ss5.png)
+   ![recipes.html](assets/testing_imgs/ss6.png)
+   ![recipes.html](assets/testing_imgs/ss7.png)
