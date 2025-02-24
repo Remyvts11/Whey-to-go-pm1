@@ -46,15 +46,19 @@ header {
 }
 
 .collumn {
-    margin: 1%; 
+    display: flex; 
+    margin: 3%;
+}
+
+.gallery {
     display: flex;
-    align-items: flex-start;
+    align-items: flex-start; 
 }
 
 h1 {
-    color: #e0a721;
-    
+    color: #e0a721; 
 }
+
 p {
     color: #ffffff;
     display: inline-block;
