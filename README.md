@@ -32,7 +32,7 @@
    The website uses the same colour pallete and logo as the buisness that it was created for to maintain brand consitency. It also uses colours that are often associated with cheeses like yellow, orange and cream.
 
   ## Wireframes
-    ![Wireframes](assets/images/Screenshot%202025-02-24%2011.56.21%20AM.png)
+    [External link to wireframes] (https://balsamiq.cloud/swmmev/prr0ye8/r632F)
 
   ## Credits
    ### code
@@ -80,7 +80,8 @@
     All images extracted from Shutterstock.com and iStock.com
 
   ## Deployment
-   To set up project on a local device, open this link in a web browser:
+   [To set up project on a local device, open this link in a web browser] (https://studious-space-guide-5gxg6p5jjwv6c7xxj-8000.app.github.dev/recipes.html)
+
 
   ## Testing
    ### HTML code validated using: https://validator.w3.org/
