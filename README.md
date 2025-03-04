@@ -81,9 +81,30 @@
 
   ## Deployment
    [To set up project on a local device, open this link in a web browser] (https://studious-space-guide-5gxg6p5jjwv6c7xxj-8000.app.github.dev/recipes.html)
+    * Install code steps:
+ 1. Install Git
+    Download and install Git from the official Git website (https://git-scm.com/).
+ 2. Clone the Repository
+    Open a Terminal and navigate to the directory and clone repo URl: https://remyvts11.github.io/Whey-to-go-pm1/
+ 3. Run the Project via the terminal by typing command python3 -m http.server
+
+
+ * Run code steps:
+  1. Either install the code to your device or clone it following the above steps
+  2. There are no necissairy dependancies to install for Yes Chef!
+  3. To run the 
+
+ * Clone code steps:
+  1. Have git installed to your computer 
+  2. Go to the git repository and select the clone button
+  3. Copy the clone command link
+  4. From a terminal window, change to the local directory where you want to clone your repository
+  5. Paste the clone command link into the terminal and press Enter.
+
 
 
   ## Testing
+
    ### HTML code validated using: https://validator.w3.org/
     ![index.html](assets/validator_imgs/Screenshot%202025-01-30%209.38.27%20PM.png)
     ![contact.html](assets/validator_imgs/Screenshot%202025-01-30%209.49.07%20PM.png)
@@ -100,3 +121,29 @@
    ![recipes.html](assets/testing_imgs/ss5.png)
    ![recipes.html](assets/testing_imgs/ss6.png)
    ![recipes.html](assets/testing_imgs/ss7.png)
+
+   ### Testing Table
+    Expected - Site is expected to take user to recipe page when recipe in the nav bar is clicked
+    Tested   - Tested the site by clicking 'recipes'
+    Result   - Site acted as expected and took user to Recipe page
+
+    Expected - Site is expected to take user to Contact page when 'contact us' in the nav bar is clicked
+    Tested   - Tested the site by clicking 'contact us'
+    Result   - Site acted as expected and took user to contact page
+
+    Expected - Site is expected to take user to another site via the external links in recipe page
+    Tested   - Tested the site by clicking all external recipe links
+    Result   - Site acted as expected and took user to the linked sites
+
+    Expected - Site is expected to take user bcak to home page when they scroll to bottom of any page on the site
+    Tested   - Tested the site by scrolling to the bottom of each page and clicking the home link
+    Result   - Site acted as expected and took user bcak to the home link 
+
+    Expected - Site is expected to play video when loaded
+    Tested   - Tested the site by loading site 
+    Result   - Site acted as expected and played the video
+
+    Expected - Site is expected to provide audio controls for the video
+    Tested   - Tested the site by turning up the video volume/ muting video audio
+    Result   - Site acted as expected and turned up the volume/ muted the video audio
+    
