@@ -1,4 +1,4 @@
-,mbvvvgvvvvvvvvvvvvvvvvvvvvvvvvv# written with Markdown
+# written with Markdown
 
 # UX
   ## Project Goals
@@ -32,7 +32,7 @@
    The website uses the same colour pallete and logo as the buisness that it was created for to maintain brand consitency. It also uses colours that are often associated with cheeses like yellow, orange and cream.
 
   ## Wireframes
-    https://balsamiq.cloud/swmmev/prr0ye8/r632F
+  ![wireframe](assets/images/wireframe.png) 
 
   ## Credits
    ### code
