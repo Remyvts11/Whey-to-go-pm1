@@ -1,4 +1,4 @@
-# written with Markdown
+,mbvvvgvvvvvvvvvvvvvvvvvvvvvvvvv# written with Markdown
 
 # UX
   ## Project Goals
@@ -106,12 +106,12 @@
   ## Testing
 
    ### HTML code validated using: https://validator.w3.org/
-    ![index.html](assets/validator_imgs/Screenshot%202025-01-30%209.38.27%20PM.png)
-    ![contact.html](assets/validator_imgs/Screenshot%202025-01-30%209.49.07%20PM.png)
-    ![recipes.html](assets/validator_imgs/Screenshot%202025-02-02%204.29.19%20PM.png)
+    ![index.html](assets/validator_imgs/ss27.png)
+    ![contact.html](assets/validator_imgs/ss07.png)
+    ![recipes.html](assets/validator_imgs/ss19.png)
 
    ### CSS code validated using: https://jigsaw.w3.org/css-validator/
-    ![style.css](assets/validator_imgs/Screenshot%202025-02-02%204.54.49%20PM.png)
+    ![style.css](assets/validator_imgs/ss49.png)
 
    ### Final website screenshots 
    ![index.html](assets/testing_imgs/ss1.png)
