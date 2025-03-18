@@ -32,14 +32,15 @@
    The website uses the same colour pallete and logo as the buisness that it was created for to maintain brand consitency. It also uses colours that are often associated with cheeses like yellow, orange and cream.
 
   ## Wireframes
-    [External link to wireframes] (https://balsamiq.cloud/swmmev/prr0ye8/r632F)
+    https://balsamiq.cloud/swmmev/prr0ye8/r632F
 
   ## Credits
    ### code
    Contact us form code copied from w3schools:
  https://www.w3schools.com/howto/howto_css_contact_form.asp 
-<div class="container">
-  <form action="action_page.php">
+   
+   <div class="container">
+   <form action="action_page.php">
 
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
@@ -106,12 +107,12 @@
   ## Testing
 
    ### HTML code validated using: https://validator.w3.org/
-    ![index.html](assets/validator_imgs/ss27.png)
-    ![contact.html](assets/validator_imgs/ss07.png)
-    ![recipes.html](assets/validator_imgs/ss19.png)
+   ![index.html](assets/validator_imgs/ss27.png)
+   ![contact.html](assets/validator_imgs/ss07.png)
+   ![recipes.html](assets/validator_imgs/ss19.png)
 
    ### CSS code validated using: https://jigsaw.w3.org/css-validator/
-    ![style.css](assets/validator_imgs/ss49.png)
+   ![style.css](assets/validator_imgs/ss49.png)
 
    ### Final website screenshots 
    ![index.html](assets/testing_imgs/ss1.png)
