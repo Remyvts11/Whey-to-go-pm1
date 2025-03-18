@@ -53,6 +53,7 @@ header {
 .gallery {
     display: flex;
     align-items: flex-start; 
+    gap: 20px;
 }
 
 h1 {
